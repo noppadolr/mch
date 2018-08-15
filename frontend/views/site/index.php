@@ -27,8 +27,6 @@ $this->title = 'ระบบติดตามข้อมูล งานอน
             </div><!-- /.info-box -->
             </div>  <!-- col -->
 
-            
-
             <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="info-box bg-green">
               <span class="info-box-icon"><i class="fa fa-thumbs-o-up"></i></span>
